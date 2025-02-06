@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Knoten">
+    <Position X="7" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAEAIgAQAAAAJAAAAgAAIAAAEAAA=</HashCode>
+      <FileName>Knoten.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="links" />
+      <Field Name="rechts" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Baum">
+    <Position X="0.75" Y="1" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQACAEQAAAIgAAQAAAAIAAAIAgAAAAAECAAGAAEA=</HashCode>
+      <FileName>Baum.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="wurzel" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
